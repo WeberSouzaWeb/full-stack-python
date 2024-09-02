@@ -1,6 +1,18 @@
 # AI Image Generator
 
 This Reflex template uses [Replicate](https://replicate.com/) to generate images.
+## Installation 
+
+
+      # mkdir my_app_name
+      # cd my_app_name
+      # python3 -m venv .venv
+      # source .venv/bin/activate
+      # pip install pip --upgrade
+      # pip install reflex
+      # reflex init
+      # pip install -r requirements.txt
+      # reflex run
 
 ## Setup
 
